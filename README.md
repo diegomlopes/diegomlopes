@@ -32,9 +32,14 @@ A few public repositories from my GitHub:
 
 > I'm continuously improving the documentation and curation of my public projects. Much of my professional work is in private repositories.
 
-## Beyond the code
+## Co-founder & Product Development — Diga Inova
 
-At **Diga Inova**, I work alongside my business partner to turn product ideas into real applications. This gives me a broader perspective on software: from technical decisions and implementation to usability, maintenance, and long-term product evolution.
+I'm a partner at **[Diga Inova](https://digainova.com/en-us)**, where my business partner and I create and develop our own digital products. Alongside hands-on Flutter development, I contribute to technical decisions, software architecture, user experience, and the long-term evolution of our applications.
+
+- 🌐 **Company website:** [digainova.com](https://digainova.com/en-us)
+- 💻 **Company GitHub:** [github.com/digainova](https://github.com/digainova)
+
+This entrepreneurial work helps me approach engineering with a product mindset—not just focusing on how software is built, but on the problems it solves.
 
 ## Let's connect
 
